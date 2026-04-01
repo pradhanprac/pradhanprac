@@ -43,7 +43,7 @@ Visualization         Power BI · DAX · Streamlit · Matplotlib
 
 ## 🚀 Featured Projects
 
-### 🔬 [PE-Org-AI-R: AI Readiness Scoring Platform]([https://github.com/pradhanprac/PE-Org-AI-R](https://github.com/BigDataIA-Sat-Spring26-Team-2/BigDataIA-Sat-Spring26-Team-2_CS5)
+### 🔬 [PE-Org-AI-R: AI Readiness Scoring Platform]([https://github.com/pradhanprac/PE-Org-AI-R](https://github.com/BigDataIA-Sat-Spring26-Team-2/BigDataIA-Sat-Spring26-Team-2_CS5])
 
 > *How AI-ready are public companies — really?* This platform answers that question with evidence from 90+ SEC filings, hiring data, and patent records.
 
