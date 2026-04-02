@@ -92,16 +92,6 @@ End-to-end credit default prediction pipeline with user personalization and auto
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pradhanprac&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradhanprac&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</p>
-
----
-
 ## 🎓 Education & Certifications
 
 - 🎓 **MS Information Systems** — Northeastern University, Boston · GPA 4.0 · Aug 2026
@@ -111,6 +101,6 @@ End-to-end credit default prediction pipeline with user personalization and auto
 ---
 
 <p align="center">
-  <i>Currently open to full-time roles in Data Engineering · Analytics Engineering · AI/ML Engineering · LLM Engineering · Data Science — Boston area or remote.</i><br/>
+  <i>Currently open to full-time roles in Data Analysis ·BI Development · Analytics Engineering · AI/ML Engineering · LLM Engineering · Data Science — Boston area or remote(ready to relocate).</i><br/>
   <i>Let's build something with data.</i>
 </p>
