@@ -24,7 +24,7 @@ My career has moved deliberately from enterprise software engineering → health
 - 🏥 **MaineHealth (US health system)** — designed credentialing data models, automated ETL pipelines, Power BI dashboards, and SQL governance frameworks for provider data across the organization
 - 🤖 **Now:** building **PE-Org-AI-R** — a production-grade AI readiness scoring platform using LangGraph agents, RAG search, SEC filing ingestion, and Snowflake — bridging my data engineering foundation with modern AI systems
 
-I'm actively targeting full-time roles across **Data Engineering**, **Analytics Engineering**, **AI/ML Engineering**, **LLM Engineering**, and **Data Science** — anywhere data pipelines meet intelligent systems. F-1 OPT, STEM eligible.
+I'm actively targeting full-time roles across **Data Analysis**,**BI Developement**, **Analytics Engineering**, **AI/ML Engineering**, **LLM Engineering**, and **Data Science** — anywhere data pipelines meet intelligent systems. F-1 OPT, STEM eligible.
 
 ---
 
