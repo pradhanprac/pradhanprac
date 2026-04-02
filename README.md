@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm Prachi 👋</h1>
 
-<h3 align="center">Data Engineer · Healthcare Data Pipelines · AI/LLM Systems · Boston, MA</h3>
+<h3 align="center">Data Enthutiast · Healthcare Data Pipelines · AI/LLM Systems · Boston, MA</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/prachi-pradhan2612/">
